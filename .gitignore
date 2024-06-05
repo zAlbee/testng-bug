@@ -1,0 +1,10 @@
+test-output/
+
+## Maven
+target/
+
+## Eclipse
+.project
+.classpath
+.settings/
+
